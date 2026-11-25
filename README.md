@@ -1,4 +1,5 @@
-Seja bem-vindo(a) ao meu primeiro projeto publicado e "responsivo" para celulares e computadores!
+Seja bem-vindo(a) ao meu primeiro projeto publicado!
 Acesse-o no link israel-programador10.github.io.
 
-@Programando80
+
+https://www.youtube.com/@Programando80
